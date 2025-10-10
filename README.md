@@ -59,5 +59,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Rich](https://github.com/Textualize/rich) for terminal rendering
 - [Matplotlib](https://matplotlib.org/) for charts
 - [TinyDB](https://tinydb.readthedocs.io/en/latest/) for lightweight JSON database
-
-This README covers all relevant information for users and contributors, including features, installation, usage, configuration, and licensing. It is ready to be placed as `README.md` in your GitHub repo root.
