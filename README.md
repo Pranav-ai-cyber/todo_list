@@ -1,4 +1,4 @@
-# Ultimate To-Do List Manager
+# To-Do List Manager
 A powerful, feature-rich command-line to-do list manager built with Python. This app uses Rich for colorful terminal UI, Matplotlib for progress charts, and TinyDB for task storage. It supports task urgency levels, motivational messages, statistics, search, and optional email reporting.
 
 ## Features
